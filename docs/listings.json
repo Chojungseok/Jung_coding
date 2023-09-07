@@ -2,7 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/서울시 공공체육시설 문제 분석및 해결방안/Final_Exam.html"
+      "/posts/서울시 공공체육시설 문제 분석및 해결방안/Final_Exam.html",
+      "/posts/Pandas/pandas.html",
+      "/posts/Numpy_Basic/numpy_basic.html"
     ]
   }
 ]
